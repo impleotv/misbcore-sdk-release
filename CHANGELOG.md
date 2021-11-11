@@ -2,7 +2,7 @@
 ==========
 
 ### Ver. 1.2.2 (04/11/21)
-- Fix high tags in user defined plugin
+- Fix higher tags in user defined plugin
 
 ### Ver. 1.2.1 (01/11/21)
 - Fix long user defined data buffer
