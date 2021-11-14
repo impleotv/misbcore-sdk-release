@@ -19,6 +19,15 @@ OS: Windows / Linux (not officially provided, but can be compiled for Linux).
 **MisbCore SDK** can be downloaded as a **zip** file that contains installer. Unzip the **MISBCoreSdk.zip** file and run the **MISBCoreSdk.exe**  
 Here is the [latest version](https://github.com/impleotv/misbcore-sdk-release/releases/latest/download/MISBCoreSdk.zip)
 
+## Download link
+
+| Software | Version             | Download link                                                           | 
+|:---------|:-------------------:|:------------------------------------------------------------------------|
+| **MisbCore SDK** |  v1.2.2 | [MISBCoreSdk.zip](https://github.com/impleotv/misbcore-sdk-release/releases/latest/download/MISBCoreSdk.zip) | 
+
+*Released on Sun, 14 Nov, 14:42 GMT+2*
+
+
 ## License
 
 **MisbCore SDK** is a node locked software. In order to get the license, please install it and fill an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
