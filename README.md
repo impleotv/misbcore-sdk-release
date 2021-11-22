@@ -25,7 +25,7 @@ OS: Windows / Linux (not officially provided, but can be compiled for Linux).
 |:---------|:-------------------:|:------------------------------------------------------------------------|
 | **MisbCore SDK** |  v1.2.2 | [MISBCoreSdk.zip](https://github.com/impleotv/misbcore-sdk-release/releases/latest/download/MISBCoreSdk.zip) | 
 
-*Released on Sun, 14 Nov, 14:50 GMT+2*
+*Released on Mon, 22 Nov, 11:25 GMT+2*
 
 
 ## License
