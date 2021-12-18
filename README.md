@@ -23,14 +23,16 @@ OS: Windows / Linux (not officially provided, but can be compiled for Linux).
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **MisbCore SDK** |  v1.2.2 | [MISBCoreSdk.zip](https://github.com/impleotv/misbcore-sdk-release/releases/latest/download/MISBCoreSdk.zip) | 
+| **MisbCore SDK** |  v1.4.0 | [MISBCoreSdk.zip](https://github.com/impleotv/misbcore-sdk-release/releases/latest/download/MISBCoreSdk.zip) | 
 
-*Released on Mon, 22 Nov, 11:32 GMT+2*
+*Released on Sat, 18 Dec, 19:11 GMT+2*
 
 
 ## License
 
-**MisbCore SDK** is a node locked software. In order to get the license, please install it and fill an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
+No license is needed for SDK evaluation - it will work in demo mode (with some restrictions).
+
+**MisbCore SDK** is a node locked software, so you have to get a license (after purchasing the SDK) in order to lift demo restrictions. Please install it and fill an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
 ***Node Info*** string can be seen when you run the demo app, as shown below.
 
 <div align="center">
