@@ -1,6 +1,19 @@
 ﻿Change Log
 ==========
 
+### Ver. 1.4.0 (16/12/21)
+- Fix Vmti target pack encoding. 
+- Add support for target color additional format (as either string or number)
+- Remove vTargetPack tag. use data directly. vTargetPack is still supported for backward compatibility, will be removed later
+- Target color Detailed show html color
+- Add Tracker ID 16 byte guid
+
+### Ver. 1.3.0 (02/12/21)
+- Set current time (tag 2) during packet encoding, if not provided or UpdateTimeToCurrentTime property set to true
+
+### Ver. 1.2.3 (01/12/21)
+- Add native library mode
+
 ### Ver. 1.2.2 (04/11/21)
 - Fix higher tags in user defined plugin
 
