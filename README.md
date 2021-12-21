@@ -18,6 +18,7 @@ OS: Windows / Linux (not officially provided, but can be compiled for Linux).
 
 **MisbCore SDK** can be downloaded as a **zip** file that contains installer. Unzip the **MISBCoreSdk.zip** file and run the **MISBCoreSdk.exe**  
 
+You can also use it directly, as **nuget** package which is published online.
 
 ## Download link
 
