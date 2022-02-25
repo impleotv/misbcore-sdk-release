@@ -18,15 +18,15 @@ OS: Windows / Linux (not officially provided, but can be compiled for Linux).
 
 **MisbCore SDK** can be downloaded as a **zip** file that contains installer. Unzip the **MISBCoreSdk.zip** file and run the **MISBCoreSdk.exe**  
 
-You can also use it directly, as **nuget** package [MisbCoreLib](https://www.nuget.org/packages/MisbCoreLib) which is published online.
+You can also use it directly, as **nuget** package which is published online.
 
 ## Download link
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **MisbCore SDK** |  v1.4.0 | [MISBCoreSdk.zip](https://github.com/impleotv/misbcore-sdk-release/releases/latest/download/MISBCoreSdk.zip) | 
+| **MisbCore SDK** |  v1.4.2 | [MISBCoreSdk.zip](https://github.com/impleotv/misbcore-sdk-release/releases/latest/download/MISBCoreSdk.zip) | 
 
-*Released on Sun, 19 Dec, 10:35 GMT+2*
+*Released on Fri, 25 Feb, 13:48 GMT+2*
 
 
 ## License
