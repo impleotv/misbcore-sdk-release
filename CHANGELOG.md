@@ -1,6 +1,13 @@
 ﻿Change Log
 ==========
 
+### Ver. 1.4.2 (25/02/22)
+- Add Tag 102 VObject
+- Fix  Correction Offset ToDetailed exception
+
+### Ver. 1.4.1 (01/02/22)
+- Add KeepTimeTagEmpty property
+
 ### Ver. 1.4.0 (16/12/21)
 - Fix Vmti target pack encoding. 
 - Add support for target color additional format (as either string or number)
