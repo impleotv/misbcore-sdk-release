@@ -1,6 +1,12 @@
 ﻿Change Log
 ==========
 
+### Ver. 1.4.4 (19/05/22)
+- Fix Unsigned/signed range exception
+
+### Ver. 1.4.3 (12/05/22)
+- Add helper funcitons to MISB903
+
 ### Ver. 1.4.2 (25/02/22)
 - Add Tag 102 VObject
 - Fix  Correction Offset ToDetailed exception
