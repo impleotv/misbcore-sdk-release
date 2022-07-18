@@ -1,6 +1,15 @@
 ﻿Change Log
 ==========
 
+
+### Ver. 1.4.6 (08/22)
+- Min packet len to decode - 31 bytes (insted of 32)
+- Support 3 and 4 bytes klv len
+
+### Ver. 1.4.5 (30/05/22)
+- Add ConvertTargetCenterPoint
+- Fix Tag 110
+
 ### Ver. 1.4.4 (19/05/22)
 - Fix Unsigned/signed range exception
 
