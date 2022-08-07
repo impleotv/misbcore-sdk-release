@@ -1,6 +1,8 @@
 ﻿Change Log
 ==========
 
+### Ver. 1.5.0 (06/08/22)
+- Add tags 115, 116, 121, 128
 
 ### Ver. 1.4.6 (08/22)
 - Min packet len to decode - 31 bytes (insted of 32)
