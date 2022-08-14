@@ -1,6 +1,9 @@
 ﻿Change Log
 ==========
 
+### Ver. 1.5.2 (14/08/22)
+- Fix VMTI target Id
+
 ### Ver. 1.5.1 (8/08/22)
 - Add tag 122, 138, 139
 
