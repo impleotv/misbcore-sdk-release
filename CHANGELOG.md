@@ -1,6 +1,16 @@
 ﻿Change Log
 ==========
 
+### Ver. 1.7.0 (01/02/23)
+- Add VChip
+- Option to read license info from the environmental variables.
+
+### Ver. 1.6.1 (8/01/23)
+- Update device id
+
+### Ver. 1.5.2 (22/08/22)
+- Fix mix/max range (4294967294/4294967295) for some tags
+
 ### Ver. 1.5.2 (14/08/22)
 - Fix VMTI target Id
 
@@ -11,7 +21,7 @@
 - Add tags 115, 116, 121, 128
 
 ### Ver. 1.4.6 (08/22)
-- Min packet len to decode - 31 bytes (insted of 32)
+- Min packet len to decode - 31 bytes (instead of 32)
 - Support 3 and 4 bytes klv len
 
 ### Ver. 1.4.5 (30/05/22)
@@ -54,10 +64,10 @@
 - Add Linux support for node string generation
 
 ### Ver. 1.1.1
-- Fix Rvt decoding (remove hard coded write to disk)
+- Fix Rvt decoding (remove hardcoded  write to disk)
 
 ### Ver. 1.1.0
-- Add plugin support for MISB806 user defined metadata
+- Add plugin support for MISB806 user-defined metadata
 
 ### Ver. 1.0.14
 - Fix activation (13/05/21)
@@ -79,7 +89,7 @@
 
 ### Ver. 1.0.8
 - Add float support for special values
-- Fix some encodings to 16 bit instesd of 32 bit
+- Fix some encodings to 16 bit instead of 32 bit
 - Add ElevationAngle special value
 
 ### Ver. 1.0.7
