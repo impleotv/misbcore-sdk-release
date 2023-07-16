@@ -1,6 +1,9 @@
 ﻿Change Log
 ==========
 
+### Ver. 1.7.1 (16/07/23)
+- Fix BER-OID Encoding/Decoding for VMTI Target ID
+
 ### Ver. 1.7.0 (01/02/23)
 - Add VChip
 - Option to read license info from the environmental variables.
