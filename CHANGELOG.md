@@ -1,6 +1,9 @@
 ﻿Change Log
 ==========
 
+### Ver. 1.7.2 (12/10-/23)
+- Fix long VMTI tracker (over 14 items)
+
 ### Ver. 1.7.1 (16/07/23)
 - Fix BER-OID Encoding/Decoding for VMTI Target ID
 
