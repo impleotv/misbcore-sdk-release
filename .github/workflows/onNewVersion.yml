@@ -44,7 +44,7 @@ jobs:
           local-dir: ./
           server-dir: misbcoresdk/
 
-      - name: Setup NodeJs 16.x
+      - name: Setup NodeJs 18.x
         uses: actions/setup-node@v4
         with:
           node-version: '18.x'
