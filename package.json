@@ -1,6 +1,6 @@
 {
   "name": "misbcore-sdk-release",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "<div align=\"center\">\r   <a >\r     <img src=\"images/impleo_logo.png\" alt=\"Logo\" >\r   </a>\r </div>",
   "main": "index.js",
   "scripts": {
