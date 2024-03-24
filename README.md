@@ -24,9 +24,9 @@ You can also use it directly, as **nuget** package which is published online.
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **MisbCore SDK** |  v1.7.2 | [MISBCoreSdk.zip](https://github.com/impleotv/misbcore-sdk-release/releases/latest/download/MISBCoreSdk.zip) | 
+| **MisbCore SDK** |  v2.3.0 | [MISBCoreSdk.zip](https://github.com/impleotv/misbcore-sdk-release/releases/latest/download/MISBCoreSdk.zip) | 
 
-*Released on Thu, 12 Oct, 10:04 GMT+3*
+*Released on Sun, 24 Mar, 09:38 GMT+2*
 
 
 ## License
