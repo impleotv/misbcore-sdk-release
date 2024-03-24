@@ -1,6 +1,5 @@
 ﻿Change Log
 ==========
-
 ### Ver. 2.3.0 (21/03/24)
 - Remove length from VMTI Location (tag 17)
 - Remove length from VMTI Velocity and Acceleration DLP 
@@ -14,7 +13,7 @@
 ### Ver. 1.7.3 (24/10/23)
 - Add VMTI timestamps types (integer, string, datetime)
 
-### Ver. 1.7.2 (12/10-/23)
+### Ver. 1.7.2 (12/10/23)
 - Fix long VMTI tracker (over 14 items)
 
 ### Ver. 1.7.1 (16/07/23)
