@@ -1,5 +1,14 @@
 ﻿Change Log
 ==========
+
+### Ver. 2.5.0 (12/08/24)
+- MISB 903.6 (VMTI) additions
+- Add VMTI VTarget Pack Tag 22 (algorithmId) 
+- Add VMTI AlgorithmSeries Tag 102 support 
+- Add VMTI OntologySeries Tag 103 support 
+- Add VMTI vTargetSeries (tag 101) vObjectSeries Tag 107 support 
+- Add VMTI vTargetSeries (tag 101) vChipSeries Tag 106 support 
+
 ### Ver. 2.3.0 (21/03/24)
 - Remove length from VMTI Location (tag 17)
 - Remove length from VMTI Velocity and Acceleration DLP 
