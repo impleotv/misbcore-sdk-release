@@ -1,6 +1,10 @@
 ﻿Change Log
 ==========
 
+### Ver. 2.6.0 (14/05/25)
+- MISB 601. Add tag 140 (WeaponsStores)
+- Add QR code for node info in the demo app
+
 ### Ver. 2.5.0 (12/08/24)
 - MISB 903.6 (VMTI) additions
 - Add VMTI VTarget Pack Tag 22 (algorithmId) 

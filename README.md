@@ -24,9 +24,9 @@ You can also use it directly, as **nuget** package which is published online.
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **MisbCore SDK** |  v2.5.0 | [MISBCoreSdk.zip](https://github.com/impleotv/misbcore-sdk-release/releases/latest/download/MISBCoreSdk.zip) | 
+| **MisbCore SDK** |  v2.6.0 | [MISBCoreSdk.zip](https://github.com/impleotv/misbcore-sdk-release/releases/latest/download/MISBCoreSdk.zip) | 
 
-*Released on Wed, 14 Aug, 08:28 GMT+3*
+*Released on Thu, 15 May, 11:22 GMT+3*
 
 
 ## License
@@ -43,9 +43,9 @@ No license is needed for SDK evaluation - it will work in demo mode (with some r
 </div>  
 
 
+Copy and paste the **Node Info** string into the online form, or email it to support@impleotv.com.  
+If your computer is offline or you're unable to copy the Node Info text, take a photo of the window with the QR code clearly visible and send it to us instead.
 
-Please copy-paste *Node Info*, don't send an image...
-
-You'll get back a **license** file and a **key**.
+You'll receive a license file and a key that can be utilized in the Activate method.
 
 > For large quantities, please contact us for an **unlocked license**.
